@@ -1,10 +1,10 @@
 {
-  "version": "1.10.4",
+  "version": "1.11.0",
   "description": "RGB lighting, fan curves and sensors for Windows PCs, in one app.",
   "homepage": "https://github.com/Heavenlystorm/airglow",
   "license": "MIT",
-  "url": "https://github.com/Heavenlystorm/airglow/releases/download/v1.10.4/Airglow-stable-Portable.zip",
-  "hash": "361d859e3d9d135522366ccb193df0a59e1885dc6485c9f96ed1289c819fa90e",
+  "url": "https://github.com/Heavenlystorm/airglow/releases/download/v1.11.0/Airglow-stable-Portable.zip",
+  "hash": "ff66e22e4a36219fc43fb84aae99ec2d8159a53dbe8b9f14dc8711ae8d35681d",
   "shortcuts": [
     [
       "Airglow.exe",
